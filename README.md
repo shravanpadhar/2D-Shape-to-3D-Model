@@ -30,18 +30,12 @@ Convert real-time 2D sketches from your webcam into dynamic, rotatable 3D models
 - [Trimesh](https://trimsh.org/)
 - [Pyglet](https://pyglet.readthedocs.io/)
 
-###  Install dependencies:
-
-```bash
-pip install opencv-python cadquery trimesh pyglet numpy
+###  Install Requirements
+<pre lang="bash"><code>pip install opencv-python cadquery trimesh pyglet numpy </code></pre>
 
 ### How to Run
-
-```bash
-python 2d_to_3d.py
+<pre lang="bash"><code>python 2d_to_3d.py </code></pre>
 
 
 ##  Author
-
-**Shravan Kailas Padhar**  
-📫 [LinkedIn](https://www.linkedin.com/in/shravan) • [Twitter](https://twitter.com/your_twitter_handle)
+<pre lang="markdown"><code>## 👨‍💻 Author **Shravan Kailas Padhar** 📫 [LinkedIn](https://www.linkedin.com/in/shravan) • [Twitter](https://twitter.com/your_twitter_handle) </code></pre>
