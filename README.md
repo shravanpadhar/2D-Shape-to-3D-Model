@@ -36,6 +36,9 @@ Convert real-time 2D sketches from your webcam into dynamic, rotatable 3D models
 ### How to Run
 <pre lang="bash"><code>python 2d_to_3d.py </code></pre>
 
+##  Author
+
+**Shravan Kailas Padhar**  
+📫 [LinkedIn](https://www.linkedin.com/in/shravan) • [Twitter](https://twitter.com/your_twitter_handle)
 
 
-<pre lang="markdown"><code>## 👨‍💻 Author **Shravan Kailas Padhar** 📫 [LinkedIn](https://www.linkedin.com/in/shravan) • [Twitter](https://twitter.com/your_twitter_handle) </code></pre>
